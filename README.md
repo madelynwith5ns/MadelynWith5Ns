@@ -4,7 +4,7 @@ I write trash code
 
 Living, Breathing Stereotype
 
-I use ~~arch~~bedrock btw.
+I use arch btw.
 
 Bi transfem linux user
 
