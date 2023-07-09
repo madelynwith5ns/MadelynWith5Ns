@@ -12,4 +12,4 @@ Bi transfem linux user
 
 **Email** madelynwith5ns@proton.me
 
-**Discord** MadelynWith5Ns#9240
+**Discord** @madelynwith5ns
