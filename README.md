@@ -4,8 +4,6 @@ I write trash code
 
 Living, Breathing Stereotype
 
-I use gentoo btw. *Still waiting for the grand release of Genthree*
-
 Bi transfem linux user
 
 ## Contact
@@ -13,3 +11,5 @@ Bi transfem linux user
 **Email** madelynwith5ns@proton.me
 
 **Discord** @madelynwith5ns
+
+**Matrix** @madelynwith5ns:matrix.org
