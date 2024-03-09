@@ -1,10 +1,10 @@
 # MadelynWith5Ns
 
-I write trash code
+Got absolutely no idea where I am or what I'm making
 
-Living, Breathing Stereotype
+Stuck in neovim losing my mind over gprevious vhighlight.
 
-Bi transfem linux user
+Rust finally caught me.
 
 ## Contact
 
