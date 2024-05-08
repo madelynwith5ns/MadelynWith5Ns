@@ -1,15 +1,20 @@
 # MadelynWith5Ns
 
-Got absolutely no idea where I am or what I'm making
+Neovim user addicted to Rust (how unique).
 
-Stuck in neovim losing my mind over gprevious vhighlight.
+Mainly focusing on developer tools and libraries.
 
-Rust finally caught me.
+See you in vim at 10pm tonight, I'll bring the manuals. <3
 
 ## Contact
+You can contact me at any of the following locations:
+
+**Email** madelyn@mw5ns.com
 
 **Email** madelynwith5ns@proton.me
 
 **Discord** @madelynwith5ns
 
 **Matrix** @madelynwith5ns:matrix.org
+
+**Carrier Pigeon** 2 slices of bread and 3 chirps to the north
