@@ -13,8 +13,8 @@ You can contact me at any of the following locations:
 
 **Email** madelynwith5ns@proton.me
 
-**Discord** @madelynwith5ns
-
 **Matrix** @madelynwith5ns:matrix.org
+
+**Discord** @madelynwith5ns
 
 **Carrier Pigeon** 2 slices of bread and 3 chirps to the north
