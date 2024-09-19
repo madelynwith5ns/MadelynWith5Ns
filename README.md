@@ -1,10 +1,10 @@
 # MadelynWith5Ns
 
-Neovim user addicted to Rust (how unique).
+vim witch fast enough to give people existential crises since 1796 (what do you mean the world didnt exist yet?)
 
-Mainly focusing on developer tools and libraries.
+biggest [cosmic desktop](https://github.com/pop-os/cosmic-epoch) fangirl this side of the andromeda galaxy
 
-See you in vim at 10pm tonight, I'll bring the manuals. <3
+i have read several funny manuals
 
 ## Contact
 You can contact me at any of the following locations:
