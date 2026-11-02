@@ -1,20 +1,21 @@
 # MadelynWith5Ns
 
-vim witch fast enough to give people existential crises since 1796 (what do you mean the world didnt exist yet?)
+unix witch and professional sysadmin.
 
-biggest [cosmic desktop](https://github.com/pop-os/cosmic-epoch) fangirl this side of the andromeda galaxy
+you probably dont know me from anything.
 
-i have read several funny manuals
+love you all <3
+
+i have read the intel 64 and ia-32 architectures software developer's manual.
+please help me.
 
 ## Contact
 You can contact me at any of the following locations:
 
-**Email** madelyn@mw5ns.com
+**Email** madelyn@mw5ns.com (preferred)
 
-**Email** madelynwith5ns@proton.me
+**Matrix** @madelyn:mw5ns.com (preferred)
 
-**Matrix** @madelynwith5ns:matrix.org
-
-**Discord** @madelynwith5ns
+**Discord** @madelynwith5ns (if you have to)
 
 **Carrier Pigeon** 2 slices of bread and 3 chirps to the north
